@@ -1,0 +1,40 @@
+Plek 1: Annabel
+“De plek waar de dansvloer onze eerste zenuwen wegvaagde — waar we voor het eerst naast elkaar bewogen op de maat, niet zo onschuldig en vol spanning. Zoek waar de jeugd haar eerste dans vond gepaard met het tegenovergesteld sex 🪩”
+Coordinaten: 51.9235, 4.4782
+
+
+Plek 2: s’zomers
+“Tussen de hofbogen en het groen, vlakbij de gele brug en het terrasje met houten tafels, ligt een plek waar zomerse bijen zoemen en geroezemoes van de stad zachtjes vervaagt. Zoek het hoekje waar je even kunt zitten en genieten van geur en romantiek. Tip: volg de geur van iets zoets en verfrissends. 💐”
+Coordinaten: 51.9230, 4.4755
+
+Plek 3: Oogstmarkt
+“Waar geuren van vers en lokaal zich mengen met het rumoer van de straat. Tussen kazen, bloemen en brood schuilt de plek waar zaterdagen langzaam smaken. Zoek waar de handen van boeren de stad voeden — je hoort er meer gekraak van baguettes dan beats uit boxen. 🧑‍🌾”
+Coordinaten: 51.93098, 4.48393
+
+Plek 4: Ox Space Lijnbaan
+“Op de Lijnbaan, tussen moderne gevels en het stadsrumoer, vind je een plek waar creativiteit en technologie samenkomen. Zoek de ruimte waar ideeën tot leven lijken te komen, waar licht en beweging je nieuwsgierig maken — een verborgen hoekje voor ontdekkers in het hart van de stad. 👀 Tip: hier knippert meer dan alleen de neonlichten. 🌟”
+Coordinaten: 51.92080, 4.47689
+
+Plek 5: Traine more coolsingel
+“Waar spiegels zuchten onder ijzer en wilskracht, en de stad buiten vervaagt in het ritme van herhalingen. Vind de plek waar kracht wordt gesmeed, recht boven de Coolsingel — je hoort er meer gekreun dan in de kroeg.🏋️‍♂️”
+Coordinaten: 51.92085, 4.47803
+
+Plek 6: Rotterdam stadstuin
+“Tussen de gebouwen van de stad ligt een stukje groen waar bloemen en groenten groeien. Zoek de plek waar de bijen zoemen en het stadsrumoer vervaagt, waar zelfs drukke dagen langzaam en rustig aanvoelen — je neus zal het je verklappen voordat je het ziet. ⛲️”
+Coordinaten: 51.92246, 4.47783
+
+Plek 7: Kubus woning
+“Waar hoeken geen hoeken zijn en muren durven te dansen. Geel, scheef en toch vol trots — een plek die elke toerist zijn hoofd doet kantelen. Zoek waar de wereld een kwartslag draait… je zult er meer camera’s zien dan bewoners, en een interieur waar zelfs je kompas de weg kwijt is. 🧊”
+Coordinaten: 51.919968, 4.488866
+
+Plek 8: Rijnhavenbrug / Hoerenloper
+“Waar de skyline van Rijnhaven op je wacht en het water langzaam glijdt onder een stalen pad dat zijn bijnaam niet voor niets kreeg. Je voeten volgen de gebogen lijnen, tussen kranen en schepen, op een brug die de Maas overspant en de stad van zuid naar noord verbindt. Zoek de plek die bekendstaat als de Hoerenloper — hier voel je de stad in beweging. 🌉”
+Coordinaten: 51.9031, 4.4798
+
+Plek 9: Watertaxi Hotel New York
+“Waar golven fluisteren en de skyline zich in het water spiegelt. Stap aan boord bij het iconische gebouw aan de oever, waar zij ooit stage liep tussen historische balken en glanzende kroonluchters. Zoek waar de wind door je haar raast… en het uitzicht over de Maas beter is dan je balans. 🌊”
+Coordinaten: 51.8924, 4.4908
+
+Plek 10: Parquit in het park
+“Ergens in het park van Rotterdam staat een schattig wit gebouw met een groot terras, omringd door bomen en gras. Zoek het hoekje waar koffie geurt, de stad even stil lijkt, en je kunt genieten van een warme beker terwijl je het stadsrumoer achter je laat.☕️”
+Coordinaten: 51.9071, 4.4754
